@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.519,C:\Users\Asus\Desktop\курсач\формы\UserFind.dfm=C:\Users\Asus\Desktop\курсач\формы\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.334,=C:\Users\Asus\Desktop\курсач\формы\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,=C:\Users\Asus\Desktop\курсач\формы\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,=C:\Users\Asus\Desktop\курсач\формы\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,=C:\Users\Asus\Desktop\курсач\формы\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\Asus\Desktop\курсач\формы\Project2.dproj=C:\Users\Asus\Desktop\курсач\формы\Coursework.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.527,C:\Users\Asus\Desktop\курсач\формы\Project2.dproj=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,C:\Users\Asus\Desktop\курсач\формы\Unit6.dfm=C:\Users\Asus\Desktop\курсач\формы\AssignFile.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,C:\Users\Asus\Desktop\курсач\формы\UserFind.pas=C:\Users\Asus\Desktop\курсач\формы\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.609,C:\Users\Asus\Desktop\курсач\формы\AddFile.dfm=C:\Users\Asus\Desktop\курсач\формы\AssignFile.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,=C:\Users\Asus\Desktop\курсач\формы\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,=C:\Users\Asus\Desktop\курсач\формы\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=C:\Users\Asus\Desktop\курсач\формы\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,C:\Users\Asus\Desktop\курсач\формы\Unit7.pas=C:\Users\Asus\Desktop\курсач\формы\TestFind.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,C:\Users\Asus\Desktop\курсач\формы\Unit5.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,=C:\Users\Asus\Desktop\курсач\формы\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,C:\Users\Asus\Desktop\курсач\формы\Unit6.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,C:\Users\Asus\Desktop\курсач\формы\Unit6.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,C:\Users\Asus\Desktop\курсач\формы\Unit6.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,C:\Users\Asus\Desktop\курсач\формы\Unit6.pas=C:\Users\Asus\Desktop\курсач\формы\AssignFile.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.547,=C:\Users\Asus\Desktop\курсач\формы\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Asus\Desktop\курсач\формы\Unit8.pas=C:\Users\Asus\Desktop\курсач\формы\Graphics.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.403,=C:\Users\Asus\Desktop\курсач\формы\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\Asus\Desktop\курсач\формы\Unit1.dfm=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,C:\Users\Asus\Desktop\курсач\формы\MainUnit.pas=C:\Users\Asus\Desktop\курсач\формы\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.591,C:\Users\Asus\Desktop\курсач\формы\MainUnit.pas=C:\Users\Asus\Desktop\MyCourseWork\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,C:\Users\Asus\Desktop\курсач\формы\MainUnit.dfm=C:\Users\Asus\Desktop\MyCourseWork\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,C:\Users\Asus\Desktop\курсач\формы\MainUnit.dfm=C:\Users\Asus\Desktop\курсач\формы\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,C:\Users\Asus\Desktop\курсач\формы\Unit7.dfm=C:\Users\Asus\Desktop\курсач\формы\TestFind.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.713,C:\Users\Asus\Desktop\курсач\формы\Coursework.dproj=C:\Users\Asus\Desktop\MyCourseWork\1 semester\Coursework.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\Asus\Desktop\MyCourseWork\MainUnit.dfm=C:\Users\Asus\Desktop\MyCourseWork\1 semester\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.517,C:\Users\Asus\Desktop\курсач\формы\TestFind.pas=C:\Users\Asus\Desktop\курсач\формы\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=C:\Users\Asus\Desktop\курсач\формы\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\Asus\Desktop\курсач\формы\Unit1.pas=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Asus\Desktop\курсач\формы\Unit8.dfm=C:\Users\Asus\Desktop\курсач\формы\Graphics.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\Asus\Desktop\MyCourseWork\MainUnit.pas=C:\Users\Asus\Desktop\MyCourseWork\1 semester\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,C:\Users\Asus\Desktop\курсач\формы\TestFind.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.229,C:\Users\Asus\Desktop\курсач\формы\AditionalUnit.pas=C:\Users\Asus\Desktop\курсач\формы\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,=C:\Users\Asus\Desktop\курсач\формы\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,=C:\Users\Asus\Desktop\курсач\формы\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.609,C:\Users\Asus\Desktop\курсач\формы\AddFile.pas=C:\Users\Asus\Desktop\курсач\формы\AssignFile.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="AddFile.pas"/>
+    <File Path="AddFile.dfm"/>
+    <File Path="AditionalUnit.pas"/>
+    <File Path="Graphics.pas"/>
+    <File Path="Graphics.dfm"/>
+    <File Path="MainUnit.pas"/>
+    <File Path="MainUnit.dfm"/>
+    <File Path="TestFind.pas"/>
+    <File Path="UserFind.pas"/>
+    <File Path="UserFind.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
